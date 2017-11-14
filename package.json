@@ -16,6 +16,7 @@
     "react-scripts": "0.9.4",
     "semantic-ui": "^2.2.9"
   },
+  "homepage": "./",
   "main": "src/electron-starter.js",
   "scripts": {
     "start": "react-scripts start",
