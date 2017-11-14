@@ -2,7 +2,7 @@
 
 [https://github.com/wyc/semantic-ui-react-todos](https://github.com/wyc/semantic-ui-react-todos)
 
-[!image](https://user-images.githubusercontent.com/10850034/32767957-0f1d3f1a-c959-11e7-8950-1f03e06699ab.png)
+![image](https://user-images.githubusercontent.com/10850034/32767957-0f1d3f1a-c959-11e7-8950-1f03e06699ab.png)
 
 ###### electron化 commit
 
@@ -37,14 +37,20 @@ $ yarn add foreman      # 複数プロセス同時起動のため [foreman](http
 - src/electron-starter.js
 - Procfile
 
-[](https://github.com/nitaking/electron-react-todolist3/compare/675714ddefa7e887e436323b3cfc8d50eca93518...4d02ed981b50e5effc25224d6f5bcd74095231fe)
+https://github.com/nitaking/electron-react-todolist3/compare/675714ddefa7e887e436323b3cfc8d50eca93518...4d02ed981b50e5effc25224d6f5bcd74095231fe
 
-5.  package.jsonにforeman用設定を追加 [package.json](https://github.com/nitaking/electron-react-todolist3/commit/4d02ed981b50e5effc25224d6f5bcd74095231fe#diff-b9cfc7f2cdf78a7f4b91a753d10865a2)
+5.  package.jsonにforeman用設定を追加
+
+* [package.json](https://github.com/nitaking/electron-react-todolist3/commit/4d02ed981b50e5effc25224d6f5bcd74095231fe#diff-b9cfc7f2cdf78a7f4b91a753d10865a2)
 
 6.  start
 
-<code style="box-sizing: border-box; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 13.6px; padding: 0px; margin: 0px; background: transparent; border-radius: 3px; word-break: normal; white-space: pre; border: 0px; display: inline; overflow: visible; line-height: inherit; word-wrap: normal;"># Dev
+```.sh
+# Dev
 $ yarn dev
+```
+```.sh
 # or build
 $ yarn build
 $ yarn start</code>
+```
