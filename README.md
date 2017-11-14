@@ -37,7 +37,7 @@ $ yarn add foreman      # 複数プロセス同時起動のため [foreman](http
 - src/electron-starter.js
 - Procfile
 
-https://github.com/nitaking/electron-react-todolist3/compare/675714ddefa7e887e436323b3cfc8d50eca93518...4d02ed981b50e5effc25224d6f5bcd74095231fe
+https://github.com/nitaking/electron-react-todolist3/compare/675714ddefa7e887e436323b3cfc8d50eca93518...ff9377c01a76fc7d40550826bc15a05fbde7e9fb
 
 5.  package.jsonにforeman用設定を追加
 
